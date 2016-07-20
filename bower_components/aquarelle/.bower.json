@@ -1,0 +1,38 @@
+{
+  "name": "aquarelle",
+  "main": "aquarelle.js",
+  "homepage": "https://ramotion.com",
+  "authors": [
+    "juri.v@ramotion.com"
+  ],
+  "description": "watercolor animation",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "aquarelle",
+    "watercolor",
+    "animation",
+    "transition"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "threejs#*"
+  },
+  "_release": "9e1e761be7",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "9e1e761be7391c1a7471eff086981c70e591034f"
+  },
+  "_source": "https://github.com/Ramotion/aquarelle.git",
+  "_target": "*",
+  "_originalSource": "aquarelle"
+}
